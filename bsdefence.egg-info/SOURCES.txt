@@ -1,0 +1,16 @@
+pyproject.toml
+setup.cfg
+setup.py
+bsdefence.egg-info/PKG-INFO
+bsdefence.egg-info/SOURCES.txt
+bsdefence.egg-info/dependency_links.txt
+bsdefence.egg-info/entry_points.txt
+bsdefence.egg-info/not-zip-safe
+bsdefence.egg-info/requires.txt
+bsdefence.egg-info/top_level.txt
+tower/__init__.py
+tower/main.py
+tower/assets/__init__.py
+tower/assets/audio/__init__.py
+tower/assets/gfx/__init__.py
+tower/assets/levels/__init__.py

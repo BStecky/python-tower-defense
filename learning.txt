@@ -1,0 +1,1 @@
+Day One: Got more experience with conda virtual environments with Python. Learned about Package Management - basically how to set up the required packages to install automatically so users can play the game 

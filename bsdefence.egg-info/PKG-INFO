@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: bsdefence
+Version: 1.0
+Summary: My first game and python project
+License: BS Studios
+Classifier: Programming Language :: Python :: 3
+
+My first game, a tower defence game. Built in python, my first python project.
